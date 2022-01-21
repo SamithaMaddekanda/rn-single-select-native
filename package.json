@@ -1,0 +1,26 @@
+{
+  "name": "rn-single-select-native",
+  "version": "1.0.0",
+  "description": "Custom react native single select drop down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamithaMaddekanda/rn-single-select.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "dropdown",
+    "single",
+    "select"
+  ],
+  "author": "Samitha Maddekanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamithaMaddekanda/rn-single-select/issues"
+  },
+  "homepage": "https://github.com/SamithaMaddekanda/rn-single-select#readme"
+}
