@@ -4,7 +4,7 @@ import { Text, View, StyleSheet } from "react-native";
 const App = () => {
   return (
     <View style={styles.sectionContainer}>
-      <Text>Hello World</Text>
+      <Text>Hello World 12</Text>
     </View>
   );
 };
