@@ -2,7 +2,7 @@
   "name": "rn-single-select-native",
   "version": "1.0.0",
   "description": "Custom react native single select drop down",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
