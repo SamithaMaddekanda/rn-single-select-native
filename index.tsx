@@ -5,7 +5,9 @@ import FilterContainer from "./src/index";
 const FilterModule = () => {
   return (
     <View>
-      <Text styles={{ textAlign: "center" }}>Sample Module: Single select</Text>
+      <Text styles={{ textAlign: "center", marginLeft: 20, marginTop: 10 }}>
+        Sample Module: Single select
+      </Text>
       <View style={{ marginTop: 10 }}>
         <FilterContainer />
       </View>
