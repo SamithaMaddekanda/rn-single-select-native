@@ -4,8 +4,8 @@ import FilterContainer from "./src/index";
 
 const App = () => {
   return (
-    <View style={styles.sectionContainer}>
-      <Text>Sample Module: Single select</Text>
+    <View>
+      <Text styles={{ textAlign: "center" }}>Sample Module: Single select</Text>
       <View style={{ marginTop: 10 }}>
         <FilterContainer />
       </View>
