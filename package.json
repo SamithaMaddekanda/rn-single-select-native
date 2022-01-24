@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/SamithaMaddekanda/rn-single-select-native/issues"
   },
-  "homepage": "https://github.com/SamithaMaddekanda/rn-single-select-native#readme"
+  "homepage": "https://github.com/SamithaMaddekanda/rn-single-select-native#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "react-native-element-dropdown": "^1.6.1"
+  }
 }

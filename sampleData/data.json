@@ -1,0 +1,111 @@
+{
+  "data": {
+    "filters": [
+      {
+        "dashboardFilterId": 2575,
+        "dashboardId": 6693,
+        "connectionId": 2510,
+        "name": "Country",
+        "label": "Country",
+        "dataType": "STRING",
+        "data": [
+          {
+            "Value": "USA",
+            "Text": "USA (13) "
+          },
+          {
+            "Value": "France",
+            "Text": "France (11) "
+          },
+          {
+            "Value": "Germany",
+            "Text": "Germany (11) "
+          },
+          {
+            "Value": "Brazil",
+            "Text": "Brazil (9) "
+          },
+          {
+            "Value": "UK",
+            "Text": "UK (7) "
+          },
+          {
+            "Value": "Spain",
+            "Text": "Spain (5) "
+          },
+          {
+            "Value": "Mexico",
+            "Text": "Mexico (5) "
+          },
+          {
+            "Value": "Venezuela",
+            "Text": "Venezuela (4) "
+          },
+          {
+            "Value": "Italy",
+            "Text": "Italy (3) "
+          },
+          {
+            "Value": "Canada",
+            "Text": "Canada (3) "
+          },
+          {
+            "Value": "Argentina",
+            "Text": "Argentina (3) "
+          },
+          {
+            "Value": "Austria",
+            "Text": "Austria (2) "
+          },
+          {
+            "Value": "Belgium",
+            "Text": "Belgium (2) "
+          },
+          {
+            "Value": "Denmark",
+            "Text": "Denmark (2) "
+          },
+          {
+            "Value": "Finland",
+            "Text": "Finland (2) "
+          },
+          {
+            "Value": "Sweden",
+            "Text": "Sweden (2) "
+          },
+          {
+            "Value": "Switzerland",
+            "Text": "Switzerland (2) "
+          },
+          {
+            "Value": "Poland",
+            "Text": "Poland (2) "
+          },
+          {
+            "Value": "Portugal",
+            "Text": "Portugal (2) "
+          },
+          {
+            "Value": "Norway",
+            "Text": "Norway (1) "
+          },
+          {
+            "Value": "Ireland",
+            "Text": "Ireland (1) "
+          }
+        ],
+        "settings": null,
+        "filterTypeId": 4,
+        "filterTypeName": "SINGLE_SELECT",
+        "autoSave": true
+      }
+    ],
+    "selectedFilters": [
+      {
+        "dashboardFilterId": 2575,
+        "values": []
+      }
+    ]
+  },
+  "error": null
+}
