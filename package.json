@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamithaMaddekanda/rn-single-select.git"
+    "url": "git+https://github.com/SamithaMaddekanda/rn-single-select-native.git"
   },
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
   "author": "Samitha Maddekanda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SamithaMaddekanda/rn-single-select/issues"
+    "url": "https://github.com/SamithaMaddekanda/rn-single-select-native/issues"
   },
-  "homepage": "https://github.com/SamithaMaddekanda/rn-single-select#readme"
+  "homepage": "https://github.com/SamithaMaddekanda/rn-single-select-native#readme"
 }
