@@ -2,7 +2,7 @@ import React from "react";
 import { Text, View, StyleSheet } from "react-native";
 import FilterContainer from "./src/index";
 
-const App = () => {
+const FilterModule = () => {
   return (
     <View>
       <Text styles={{ textAlign: "center" }}>Sample Module: Single select</Text>
@@ -12,7 +12,7 @@ const App = () => {
     </View>
   );
 };
-export default App;
+export default FilterModule;
 
 const styles = StyleSheet.create({
   sectionContainer: {
